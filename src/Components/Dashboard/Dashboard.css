@@ -1,0 +1,52 @@
+.profile-header {
+    padding-top: 20px;
+    border-bottom: 1px solid #240747;
+}
+
+.profile-div {
+    padding-top: 10px;
+}
+
+.salary-payment-table {
+    padding-top: 10px;
+}
+
+.center {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.download-btn {
+    background-color: #240747;
+    color: white;
+    border: 2px solid transparent;
+    border-radius: 4px;
+}
+
+.table-row {
+    border-bottom: 1px solid #240747;
+    background-color: #f0ab8d;
+}
+
+.table-column {
+    border-left: 1px solid #240747;
+}
+
+.table-right-column {
+    border-right: 1px solid #240747;
+    border-left: 1px solid #240747;
+}
+
+.tabletop-row {
+    border-top: 1px solid #240747;
+    border-bottom: 1px solid #240747;
+    background-color: #eb2632;
+    color: white;
+}
+
+.payment-scroll {
+    max-height: 200px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}

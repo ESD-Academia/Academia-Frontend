@@ -1,0 +1,17 @@
+.main-navbar {
+    color: white;
+    background-color: #240747;
+}
+
+.navbar-button {
+    color: white;
+    border: 2px solid transparent;
+    border-radius: 4px;
+    background-color: #eb2632;
+    transition: background-color 0.5s;
+}
+
+.navbar-button:hover {
+    border: 2px solid #eb2632;
+    background-color: transparent;
+}
